@@ -1,0 +1,53 @@
+# --- Kredensial & environment lokal ---
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# --- Python cache & build ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Data ---
+# Data mentah ACLED/BPS dan batas administrasi TIDAK di-commit sampai
+# lisensi/ketentuan redistribusi diperiksa (lihat docs/data_sources.md).
+# Data turunan (interim/processed) juga dikecualikan secara default karena
+# dapat mengandung data ACLED. Hanya README dan .gitkeep yang dilacak.
+data/raw/**
+data/interim/**
+data/processed/**
+data/spatial/**
+!data/**/
+!data/README.md
+!data/**/.gitkeep
+
+# --- Output berukuran besar ---
+results/**/*.gpkg
+results/**/*.shp
+results/**/*.parquet
+results/**/*.zip
+
+# --- File sistem / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+~$*
+*.tmp
+
+
+.history
