@@ -7,9 +7,21 @@ wilayah berbeda antar daerah.
 
 - **Data kejadian:** ACLED, periode 20 Oktober 2024 – 16 November 2025
 - **Unit analisis:** kabupaten/kota
-- **Status:** audit kualitas ACLED tersedia. Rekap awal memakai label wilayah pada rekaman Protests.
+- **Status:** preprocessing spasial Milestone 2A–2C menghasilkan tabel 514 kabupaten/kota. Y utama sementara (`y_enhanced`, versi `v2`) menghitung 4.283 dari 4.415 *Protests*. Sebanyak 108 kejadian berstatus review dan 24 unallocated. Definisi akhir menunggu persetujuan kelompok.
 
 > Data mentah ACLED tidak disertakan di repository ini.
+
+## Mereproduksi tabel regional
+
+Dari root repo, gunakan interpreter proyek dan ekstrak yang lolos pemeriksaan SHA-256 Milestone 1. Batas BIG September 2023, master BPS 2025 semester I, serta laporan validasi lokal diperlukan. Petunjuk dan sumber tersedia di [persiapan batas](docs/boundaries.md).
+
+```powershell
+$csv = 'data/raw/acled/ACLED Data_2026-11-16_event_date_from_2024-10-20_event_date_to_2025-11-16.csv'
+.\.venv\gwr-project\Scripts\python.exe -m src.protest_analysis.spatial.allocate --input "$csv"
+.\.venv\gwr-project\Scripts\python.exe -m unittest discover -s tests -v
+```
+
+Sesuaikan `$csv` dengan lokasi ekstrak. Tabel `data/processed/spatial_allocation/v2/Protests/regional_counts.csv` menyandingkan empat definisi Y. Gunakan ledger lokal dan ringkasan JSON untuk menelusuri setiap perbedaan. [Aturan, hasil, dan keterbatasan alokasi](docs/spatial_allocation.md)
 
 ## Menjalankan audit Milestone 1
 
@@ -54,8 +66,8 @@ dilaporkan tersendiri. Audit tidak membuang baris duplikat secara otomatis.
 Untuk pasangan label wilayah, hitungan sementara adalah jumlah baris berkategori Protests yang
 memiliki pasangan itu. Jumlah seluruh hitungan ditambah Protests tanpa admin2 harus sama dengan
 jumlah seluruh baris Protests. Rekap ini hanya mencakup label yang muncul dalam ekstrak.
-Status wilayah nol, kode resmi, dan kasus ambigu memerlukan daftar induk dan spatial join
-pada tahap berikutnya. Hasil saat ini belum merupakan tabel masukan GWR.
+Milestone 2A–2C menggunakan daftar induk BPS dan spatial join untuk menghitung Y,
+termasuk wilayah dengan nol rekaman teralokasi.
 
 Paket awal melaporkan 4.978 rekaman (4.415 Protests dan 563 Riots), nol baris dengan ID kosong
 atau duplikat, 18 admin2 kosong, 77 Protests berpresisi 2/3, dan 95 Protests dalam daftar tinjauan.
