@@ -1,0 +1,6 @@
+disorder_type,event_type,sub_event_type,n,pct
+Demonstrations,Protests,Peaceful protest,4324,86.86
+Demonstrations,Protests,Protest with intervention,89,1.79
+Demonstrations,Riots,Violent demonstration,246,4.94
+Political violence,Riots,Mob violence,317,6.37
+Political violence; Demonstrations,Protests,Excessive force against protesters,2,0.04

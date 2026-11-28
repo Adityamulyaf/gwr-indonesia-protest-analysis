@@ -1,0 +1,407 @@
+admin1,admin2,n
+Jakarta,Central Jakarta,353
+South Sulawesi,Makassar,138
+Jakarta,South Jakarta,127
+Papua,Jayapura,115
+North Sumatra,Medan,103
+West Java,Bandung,97
+Central Java,Semarang,86
+Southwest Papua,Sorong,86
+East Java,Surabaya,69
+Yogyakarta,Yogyakarta,68
+Central Sulawesi,Palu,63
+Maluku,Ambon,61
+Central Java,Pati,58
+West Java,Bogor,55
+Banten,Serang,54
+East Kalimantan,Samarinda,52
+West Nusa Tenggara,Mataram,44
+East Nusa Tenggara,Kupang,43
+Central Kalimantan,Palangka Raya,41
+West Java,Bekasi,41
+Riau Islands,Batam,40
+South Sumatra,Palembang,39
+Banten,Tangerang,38
+West Java,Cirebon,37
+Highland Papua,Jayawijaya,36
+South Sulawesi,Palopo,35
+Yogyakarta,Sleman,35
+Central Java,Surakarta,35
+Jakarta,East Jakarta,33
+Aceh,Banda Aceh,33
+Central Papua,Nabire,32
+West Java,Tasikmalaya,32
+East Java,Jember,32
+North Sulawesi,Manado,31
+West Sulawesi,Mamuju,31
+Lampung,Bandar Lampung,31
+West Papua,Manokwari,31
+North Maluku,Ternate,31
+Jambi,Jambi,30
+Jakarta,North Jakarta,30
+Bengkulu,Bengkulu,29
+Central Java,Brebes,29
+East Java,Malang,29
+Southeast Sulawesi,Kendari,29
+North Sumatra,Deli Serdang,29
+West Kalimantan,Pontianak,28
+Central Sulawesi,Banggai,27
+Gorontalo,Gorontalo,27
+West Java,Sukabumi,26
+Riau,Pekanbaru,25
+West Java,Depok,25
+Bangka-Belitung,Pangkalpinang,24
+West Sumatra,Padang,24
+East Java,Sidoarjo,24
+Central Java,Banyumas,23
+Bali,Denpasar,22
+West Nusa Tenggara,Bima,22
+West Java,Indramayu,21
+Central Java,Magelang,21
+West Nusa Tenggara,East Lombok,21
+Central Java,Salatiga,20
+West Sulawesi,Polewali Mandar,20
+South Sulawesi,Sinjai,20
+East Java,Pasuruan,20
+West Sulawesi,Majene,20
+East Java,Kediri,19
+Banten,Pandeglang,19
+Banten,South Tangerang,19
+West Java,Karawang,19
+West Java,Cianjur,19
+South Sulawesi,Bone,18
+South Papua,Merauke,18
+East Java,Blitar,18
+East Java,Jombang,18
+East Java,Sumenep,18
+South Kalimantan,Banjarmasin,18
+Banten,Lebak,18
+West Java,Subang,17
+Central Sulawesi,Morowali,17
+North Maluku,South Halmahera,16
+North Sumatra,Asahan,16
+Central Java,Jepara,16
+South Sulawesi,Gowa,16
+Aceh,North Aceh,15
+Central Java,Klaten,15
+Aceh,Central Aceh,15
+Central Sulawesi,Parigi Moutong,14
+Banten,Cilegon,14
+Maluku,Maluku Tenggara,14
+Riau,Kampar,14
+Maluku,East Seram Bagian,14
+South Sulawesi,Tana Toraja,14
+Highland Papua,Yahukimo,14
+Central Papua,Mimika,13
+East Java,Bondowoso,13
+East Java,Gresik,13
+South Sulawesi,Takalar,13
+South Kalimantan,Banjar Baru,13
+Maluku,Central Maluku,13
+West Nusa Tenggara,Dompu,12
+East Kalimantan,Balikpapan,12
+Yogyakarta,Kulon Progo,12
+North Maluku,Tidore Kepulauan,12
+South Sulawesi,Luwu,12
+East Java,Lumajang,11
+East Java,Bangkalan,11
+North Kalimantan,Nunukan,11
+West Sulawesi,Central Mamuju,11
+East Nusa Tenggara,Sikka,11
+Lampung,Central Lampung,11
+East Kalimantan,Kutai Kartanegara,11
+Central Java,Boyolali,11
+North Maluku,Pulau Taliabu,10
+West Nusa Tenggara,West Lombok,10
+West Nusa Tenggara,West Sumbawa,10
+West Papua,Fakfak,10
+North Kalimantan,Tarakan,10
+East Java,Bojonegoro,10
+East Java,Tuban,10
+West Java,Purwakarta,10
+Central Java,Blora,10
+Central Java,Pekalongan,10
+Central Papua,Puncak Jaya,10
+Southwest Papua,South Sorong,10
+Central Java,Sukoharjo,10
+West Java,Garut,10
+West Java,Ciamis,10
+Jakarta,West Jakarta,10
+South Sumatra,North Musi Rawas,9
+South Sumatra,Lubuklinggau,9
+East Nusa Tenggara,North Central Timor,9
+Lampung,South Lampung,9
+Riau,Rokan Hulu,9
+North Sumatra,Dairi,9
+Riau,Siak,9
+Maluku,West Seram Bagian,9
+Central Java,Kendal,9
+East Java,Lamongan,9
+East Java,Banyuwangi,9
+Central Java,Tegal,9
+East Java,Trenggalek,9
+Southwest Papua,Raja Ampat,9
+Yogyakarta,Bantul,9
+Central Java,Purbalingga,9
+South Kalimantan,Tanah Laut,9
+West Java,Kuningan,8
+Central Java,Karanganyar,8
+West Java,Majalengka,8
+East Java,Probolinggo,8
+Bengkulu,Mukomuko,8
+Aceh,Langsa,8
+Aceh,Lhokseumawe,8
+West Nusa Tenggara,Central Lombok,8
+North Sumatra,Simalungun,8
+South Sulawesi,Bulukumba,8
+South Sulawesi,Bantaeng,8
+Maluku,Buru,8
+Riau Islands,Tanjung Pinang,8
+Lampung,North Lampung,8
+Highland Papua,Tolikara,8
+West Sulawesi,North Mamuju,8
+East Java,Sampang,8
+East Java,Tulungagung,7
+East Java,Ponorogo,7
+Southeast Sulawesi,Baubau,7
+East Java,Situbondo,7
+Southeast Sulawesi,Konawe,7
+Central Java,Wonosobo,7
+Bangka-Belitung,Bangka,7
+Aceh,Nagan Raya,7
+Aceh,West Aceh,7
+West Kalimantan,Sambas,7
+West Nusa Tenggara,Sumbawa,7
+West Kalimantan,Singkawang,7
+West Sumatra,Bukit Tinggi,7
+North Kalimantan,Bulungan,7
+Central Sulawesi,Donggala,7
+Highland Papua,Lanny Jaya,7
+East Nusa Tenggara,Malaka,7
+North Sumatra,Binjai,7
+North Maluku,East Halmahera,7
+Riau,Dumai,7
+Jambi,Muaro Jambi,7
+Jambi,Merangin,7
+East Java,Mojokerto,7
+Central Java,Kudus,7
+Central Java,Batang,7
+Central Java,Kebumen,7
+Aceh,Aceh Singkil,7
+Central Java,Rembang,7
+West Sumatra,Padang Pariaman,7
+Southwest Papua,Maybrat,6
+East Nusa Tenggara,Manggarai,6
+South Sulawesi,North Toraja,6
+North Sumatra,North Tapanuli,6
+Central Java,Purworejo,6
+Bengkulu,North Bengkulu,6
+Central Papua,Paniai,6
+Central Kalimantan,East Kotawaringin,6
+Southeast Sulawesi,Muna,6
+South Sulawesi,Parepare,6
+North Sumatra,Pematang Siantar,6
+Bangka-Belitung,West Bangka,6
+East Nusa Tenggara,East Flores,6
+Aceh,Pidie,6
+East Java,Magetan,5
+Central Java,Cilacap,5
+Central Java,Temanggung,5
+West Java,Sumedang,5
+West Java,West Bandung,5
+Yogyakarta,Gunung Kidul,5
+Central Papua,Intan Jaya,5
+Central Java,Demak,5
+Aceh,East Aceh,5
+Southeast Sulawesi,Wakatobi,5
+Central Java,Pemalang,5
+Highland Papua,Yalimo,5
+South Sulawesi,Enrekang,5
+South Sulawesi,Pangkajene and Islands,5
+South Sulawesi,Pinrang,5
+East Nusa Tenggara,Ngada,5
+South Sumatra,Ogan Ilir,5
+East Nusa Tenggara,West Manggarai,5
+East Nusa Tenggara,Ende,5
+West Papua,Teluk Bintuni,5
+West Sumatra,Padang Panjang,5
+North Sumatra,Langkat,5
+North Maluku,Pulau Morotai,5
+North Sumatra,Padang Lawas,5
+West Sulawesi,Mamasa,5
+Bangka-Belitung,Central Bangka,5
+Bali,Buleleng,5
+Bali,Badung,4
+Aceh,Southeast Aceh,4
+North Sumatra,Padang Sidempuan,4
+North Sumatra,Karo,4
+West Kalimantan,Mempawah,4
+South Sulawesi,North Luwu,4
+South Papua,Boven Digoel,4
+South Sulawesi,East Luwu,4
+Riau Islands,Karimun,4
+Lampung,Metro,4
+Jambi,Tebo,4
+Jambi,Bungo,4
+Jambi,Kerinci,4
+North Sumatra,Toba Samosir,4
+South Sumatra,Muara Enim,4
+South Sumatra,Musi Rawas,4
+South Sumatra,Ogan Komering Ilir,4
+East Java,Batu,4
+East Java,Madiun,4
+Highland Papua,Central Mamberamo,4
+East Kalimantan,North Penajam Paser,4
+Central Sulawesi,Sigi,4
+West Kalimantan,Ketapang,4
+East Java,Pamekasan,4
+Bengkulu,South Bengkulu,4
+Aceh,Aceh Tamiang,4
+Central Papua,Deiyai,4
+South Sulawesi,Wajo,3
+East Nusa Tenggara,Rote Ndao,3
+South Sulawesi,Maros,3
+Papua,Sarmi,3
+Riau,Bengkalis,3
+Jambi,Sungai Penuh,3
+Lampung,Way Kanan,3
+Riau Islands,Natuna,3
+East Kalimantan,Paser,3
+South Sulawesi,Barru,3
+Aceh,Southwest Aceh,3
+North Sulawesi,Bitung,3
+West Nusa Tenggara,North Lombok,3
+North Sulawesi,Kotamobagu,3
+North Sulawesi,Tomohon,3
+West Kalimantan,Sintang,3
+Aceh,South Aceh,3
+North Sumatra,Labuhan Batu,3
+South Sumatra,Prabumulih,3
+West Java,Banjar,3
+South Sumatra,Ogan Komering Ulu,3
+Central Kalimantan,West Kotawaringin,3
+Central Papua,Dogiyai,3
+Southwest Papua,Tambrauw,3
+South Sulawesi,Jeneponto,3
+Bengkulu,Rejang Lebong,3
+West Java,Pangandaran,3
+Southeast Sulawesi,South Konawe,3
+Aceh,Aceh Besar,3
+Central Java,Grobogan,3
+Central Java,Banjarnegara,3
+Aceh,Bener Meriah,2
+Southeast Sulawesi,Kolaka,2
+East Java,Pacitan,2
+South Sumatra,Banyu Asin,2
+Central Sulawesi,North Morowali,2
+Central Sulawesi,Banggai Islands,2
+Central Sulawesi,Buol,2
+Central Kalimantan,Seruyan,2
+East Kalimantan,West Kutai,2
+Lampung,East Lampung,2
+West Kalimantan,Sanggau,2
+North Maluku,West Halmahera,2
+West Kalimantan,Landak,2
+Bengkulu,Central Bengkulu,2
+West Papua,Kaimana,2
+Aceh,Gayo Lues,2
+North Sumatra,Batu Bara,2
+North Sumatra,Central Tapanuli,2
+North Sumatra,Mandailing Natal,2
+Bangka-Belitung,South Bangka,2
+Aceh,Subulussalam,2
+West Sumatra,West Pasaman,2
+West Java,Cimahi,2
+West Kalimantan,Bengkayang,2
+West Sumatra,Sawahlunto Sijunjung,2
+West Sumatra,Pasaman,2
+West Kalimantan,Kubu Raya,2
+West Sumatra,Pariaman,2
+West Sumatra,South Pesisir,2
+Central Sulawesi,Tojo Una-Una,2
+Central Sulawesi,Toli-Toli,2
+Bengkulu,Seluma,2
+South Sumatra,Pagar Alam,2
+East Nusa Tenggara,East Manggarai,2
+Highland Papua,Nduga,2
+East Nusa Tenggara,Southwest Sumba,2
+South Sulawesi,Soppeng,2
+South Sulawesi,Sidenreng Rappang,2
+Gorontalo,North Gorontalo,2
+East Nusa Tenggara,East Sumba,2
+East Nusa Tenggara,Lembata,2
+South Kalimantan,Tapin,2
+Lampung,Mesuji,2
+South Kalimantan,Banjar,2
+Lampung,Tulang Bawang,2
+Lampung,Pringsewu,2
+Maluku,Aru Islands,2
+Lampung,Pesawaran,2
+Riau,Rokan Hilir,2
+Highland Papua,Pegunungan Bintang,2
+Papua,Yapen Islands,2
+North Sumatra,Serdang Bedagai,2
+Central Java,Sragen,2
+North Sumatra,North Padang Lawas,1
+North Sumatra,Samosir,1
+North Sulawesi,Minahasa,1
+North Sulawesi,South Bolaang Mongondow,1
+North Sulawesi,Sangihe Islands,1
+North Sumatra,North Labuhan Batu,1
+North Sulawesi,Southeast Minahasa,1
+West Sumatra,Agam,1
+West Kalimantan,Melawi,1
+Maluku,South Buru,1
+Maluku,West Maluku Tenggara,1
+North Maluku,Central Halmahera,1
+North Kalimantan,Malinau,1
+North Maluku,Sula Islands,1
+North Sulawesi,Bolaang Mongondow,1
+Bali,Jembrana,1
+Bali,Gianyar,1
+Aceh,Pidie Jaya,1
+Bali,Bangli,1
+Bengkulu,Kaur,1
+Bengkulu,Kepahiang,1
+North Sulawesi,Talaud Islands,1
+North Sumatra,Tanjung Balai,1
+Jambi,East Tanjung Jabung,1
+Riau,Kuantan Singingi,1
+Riau,Pelalawan,1
+North Sumatra,South Labuhan Batu,1
+Riau Islands,Bintan,1
+South Kalimantan,Baru,1
+South Kalimantan,Central Hulu Sungai,1
+South Kalimantan,Tabalong,1
+South Sulawesi,Selayar Islands,1
+Gorontalo,Bone Bolango,1
+East Nusa Tenggara,South Central Timor,1
+Gorontalo,Boalemo,1
+East Nusa Tenggara,Nagekeo,1
+East Kalimantan,East Kutai,1
+East Nusa Tenggara,Alor,1
+East Nusa Tenggara,Belu,1
+South Papua,Mappi,1
+South Papua,Asmat,1
+South Kalimantan,Tanah Bumbu,1
+Papua,Biak Numfor,1
+South Sumatra,South Ogan Komering Ulu,1
+Southeast Sulawesi,Buton,1
+South Sumatra,Empat Lawang,1
+South Sumatra,Musi Banyuasin,1
+Central Papua,Puncak,1
+Central Java,Wonogiri,1
+East Java,Ngawi,1
+East Kalimantan,Berau,1
+East Kalimantan,Bontang,1
+Central Kalimantan,Kapuas,1
+Central Kalimantan,Gunung Mas,1
+Southeast Sulawesi,North Buton,1
+Southeast Sulawesi,Central Buton,1
+Bengkulu,Lebong,1
+Central Sulawesi,Poso,1
+West Kalimantan,Kapuas Hulu,1
+West Sumatra,Solok,1
+West Sumatra,South Solok,1
+Aceh,Bireuen,1
+Aceh,Aceh Jaya,1

@@ -18,10 +18,16 @@ dengan Tahap 1–3.
 
 ## Tahap 1 — Audit data ACLED
 
-- [ ] Periksa jumlah kejadian (dugaan awal: 4.978 = 4.415 *Protests* + 563 *Riots*)
-- [ ] Periksa rentang tanggal, koordinat, dan nilai hilang
-- [ ] Tinjau `geo_precision` dan `sub_event_type`
-- [ ] **Putuskan:** *Riots* ikut dihitung atau tidak; ambang `geo_precision`
+Notebook: `notebooks/01_data_audit.ipynb`
+
+- [x] Periksa jumlah kejadian (4.978 = 4.415 *Protests* + 563 *Riots*, cocok)
+- [x] Periksa rentang tanggal, koordinat, dan nilai hilang
+- [x] Tinjau `geo_precision` dan `sub_event_type`
+- [x] **Putuskan:** *Protests* + *Violent demonstration* (tanpa *Mob violence*); semua `geo_precision`
+- [x] Hasil: 4.661 kejadian → `data/interim/acled_protests_selected.csv`
+
+Temuan penting: `admin2` ACLED tidak membedakan kabupaten vs kota bernama sama
+(mis. Bandung) → Tahap 4 wajib memakai spatial join.
 
 ## Tahap 2 — Literatur dan variabel penjelas (X)
 
@@ -96,7 +102,7 @@ dengan Tahap 1–3.
 
 | Tahap | Keputusan | Status |
 | --- | --- | --- |
-| 1 | Kategori ACLED dan ambang `geo_precision` | terbuka |
+| 1 | Kategori ACLED dan ambang `geo_precision` | **diputuskan:** *Protests* + *Violent demonstration*; semua presisi (uji ketahanan: ≤ 2) |
 | 2 | Variabel X final dan tahun datanya | terbuka |
 | 3 | Sumber batas wilayah dan sistem kode | terbuka |
 | 5 | Y = jumlah (GWPR) atau laju (GWR) | terbuka |
